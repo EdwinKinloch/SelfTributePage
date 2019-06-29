@@ -9,3 +9,15 @@ body {
     margin: 50px 8px;
     padding: 15px;
 }
+
+@media (min-width: 800px) { 
+    #title h1 {
+        font-size: 5rem;
+    }
+}
+
+@media (min-width: 1000px) { 
+    #tribute-info{
+       font-size: 1.5rem; 
+    }
+}
